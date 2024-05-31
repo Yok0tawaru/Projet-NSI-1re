@@ -18,7 +18,7 @@ body {
 
 .navbar {
     background-color: #2e2043;
-    color: #white;
+    color: white;
     padding: 20px;
     text-align: right;
     display: flex;
@@ -140,11 +140,6 @@ a {
 
 a:link {
     color: white;
-    font-weight: normal;
-}
-
-a:visited {
-    color: black;
     font-weight: normal;
 }
 
